@@ -72,7 +72,9 @@ Some files may overlap in functionality as they were created during different st
 
 ---
 
-▶️ Full video: [Watch MP4](docs/Code_view_real_time.MOV)
+## 🎥 Demo — Face Tracking with Tello EDU
+
+[![Face Tracking Demo](https://img.youtube.com/vi/KhPiH-S6Ivs/maxresdefault.jpg)](https://youtu.be/KhPiH-S6Ivs)
 
 ## 👤 Author
 
