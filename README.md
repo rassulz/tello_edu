@@ -1,86 +1,78 @@
-Tello EDU Drone Experiments 🛸
+# Tello EDU Drone Experiments 🛸
 
-This repository contains my practical work and experiments with the DJI Tello EDU drone using Python.
-The project reflects my learning process in computer vision, drone control, and real-time tracking, with a main focus on face tracking.
+This repository contains my practical work and experiments with the **DJI Tello EDU** drone using **Python**.  
+It reflects my hands-on learning process in **drone control, computer vision, and real-time tracking**.
 
-📌 Project Overview
+---
 
-The repository includes multiple scripts exploring different aspects of controlling the Tello drone, such as:
+## 📌 Project Overview
 
-Basic drone movement and flight control
+This repository includes multiple Python scripts created while exploring different aspects of controlling the Tello drone, such as:
 
-Camera stream handling
+- Drone movement and flight commands
+- Camera stream handling
+- Computer vision with OpenCV
+- Real-time object and face tracking
 
-Computer vision experiments using OpenCV
+The codebase is experimental in nature and represents incremental learning rather than a single finalized application.
 
-Real-time face detection and tracking
+---
 
-All files were developed as part of hands-on experimentation and learning, rather than as a single monolithic application.
+## ⭐ Main File — Face Tracking
 
-⭐ Main Feature — Face Tracking
-
-The core and most important file in this repository is:
-
-face_tranking.py
+The **main and most important file** in this repository is:
 
 
-This script implements real-time face tracking, where the drone:
+This script implements **real-time face tracking**, allowing the drone to:
 
-Detects a human face from the live camera feed
+- Detect a human face from the live video stream
+- Automatically adjust its position
+- Keep the detected face centered in the frame
 
-Adjusts its position automatically to keep the face centered
+This file represents the most complete and functional result of the work in this repository.
 
-Uses computer vision techniques for detection and control logic
+---
 
-This file represents the final and most complete result of the work in this repository.
+## 🛠 Technologies Used
 
-🛠 Technologies Used
+- Python
+- DJI Tello EDU SDK
+- OpenCV
+- NumPy
+- Real-time video streaming
 
-Python
+---
 
-DJI Tello EDU SDK
+## 📂 Repository Structure
 
-OpenCV
+- Multiple `.py` files — individual experiments and prototypes
+- `face_tranking.py` — main face-tracking implementation
+- Supporting scripts for testing drone movement and camera feed
 
-NumPy
+Some files may overlap in functionality as they were created during different stages of learning.
 
-Real-time video streaming and processing
+---
 
-📂 Repository Structure
+## 🎯 Purpose
 
-Multiple .py files — individual experiments and learning steps
+- Practice drone programming and control
+- Learn computer vision in real-time systems
+- Understand feedback-based motion control
+- Build a foundation for autonomous drone projects
 
-face_tranking.py — main face-tracking implementation
+---
 
-Supporting scripts for testing movement, camera feed, and controls
+## 🚀 Possible Future Improvements
 
-Some files may overlap in functionality or serve as intermediate prototypes created during development.
+- PID control for smoother tracking
+- Object tracking beyond faces
+- Obstacle avoidance
+- Code refactoring and modularization
+- ROS / ROS2 integration
 
-🎯 Purpose of This Repository
+---
 
-Practice working with drones and robotics
+## 👤 Author
 
-Learn computer vision in a real-time environment
-
-Understand feedback-based control systems
-
-Build a foundation for more advanced autonomous drone projects
-
-🚀 Future Improvements
-
-Possible next steps include:
-
-Object tracking beyond faces
-
-PID control for smoother movements
-
-Obstacle avoidance
-
-Code refactoring into a modular architecture
-
-ROS / ROS2 integration
-
-👤 Author
-
-Developed by Rassul
-This repository documents my personal learning and experimentation with drone programming and computer vision.
+Developed by **Rassul**  
+This repository documents my personal learning and experimentation with drone programming.
