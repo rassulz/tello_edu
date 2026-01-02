@@ -75,7 +75,7 @@ Some files may overlap in functionality as they were created during different st
 ## 🎥 Demo — Face Tracking with Tello EDU
 
 [![Code_view](https://img.youtube.com/vi/KhPiH-S6Ivs/maxresdefault.jpg)](https://youtu.be/KhPiH-S6Ivs)
-[![Side_view](https://youtu.be/CtKkcQXzz-o?si=7MDPSw1VLMwmYGTc)
+[![Side_view](https://img.youtube.com/vi/CtKkcQXzz-o?si=7MDPSw1VLMwmYGTc/maxresfault.jpg)](https://youtu.be/CtKkcQXzz-o?si=7MDPSw1VLMwmYGTc)
 ## 👤 Author
 
 Developed by **Rassul**  
