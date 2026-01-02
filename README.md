@@ -72,6 +72,8 @@ Some files may overlap in functionality as they were created during different st
 
 ---
 
+▶️ Full video: [Watch MP4](docs/Code_view_real_time.MOV)
+
 ## 👤 Author
 
 Developed by **Rassul**  
