@@ -73,7 +73,7 @@ Some files may overlap in functionality as they were created during different st
 ---
 
 ## 🎥 Demo — Face Tracking with Tello EDU
-Click on the image below to watch the real-time face tracking demo using DJI Tello EDU:
+**Click** on the image below to watch the real-time face tracking demo using DJI Tello EDU:
 [![Code_view](https://img.youtube.com/vi/KhPiH-S6Ivs/maxresdefault.jpg)](https://youtu.be/KhPiH-S6Ivs)
 [![Side_view](https://img.youtube.com/vi/CtKkcQXzz-o?si=7MDPSw1VLMwmYGTc/0.jpg)](https://youtu.be/CtKkcQXzz-o?si=7MDPSw1VLMwmYGTc)
 ## 👤 Author
